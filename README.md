@@ -18,6 +18,5 @@ I’m currently learning NodeJs<br>Ask me about HTML, CSS, JavaScript, DSA<br>Ho
 ![](https://github-profile-trophy.vercel.app/?username=JayeshYadav07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayeshYadav07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
