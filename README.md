@@ -19,7 +19,7 @@
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/1TV1bN4X0xh1w9lmxOz0O48OxD2qjpd61/view?usp=share_link)
 
-- ⚡ Fun fact - I enjoy problem-solving. 🖊️
+- ⚡ Fun fact - I enjoy solving problems. 🖊️
 
 -  🌎 Let's Create something the World needs 🌎
 
