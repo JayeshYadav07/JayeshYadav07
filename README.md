@@ -4,7 +4,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-<h2>Full Stack Web Developer skilled in Backend.</h2>
+<h2 align="center">Full Stack Web Developer skilled in Backend.</h2>
 <h2>A passionate Backend developer. I love to explore new technologies and make use of them to solve real-life problems </h2>
 <img align="right" alt "Coding" width="350" src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966">
 
