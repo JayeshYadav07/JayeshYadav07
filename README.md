@@ -60,7 +60,7 @@
             &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://wa.me/919370093936" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67" width="50px" alt="whatsapp-me" data-canonical-src="https://cdn-icons-png.flaticon.com/128/733/733585.png" style="max-width: 100%;"></a>
             &nbsp;   &nbsp;   &nbsp;   &nbsp;  <a href="https://github.com/JayeshYadav07"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png" width="50px" alt="portfolio" style="max-width: 100%;"></a>
         </p> -->
-<p align="left">
+<!-- <p align="left">
 </p>
   
   
@@ -70,7 +70,7 @@
 
    
 
- <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshYadav07&show_icons=true&locale=en&layout=compact" alt="JayeshYadav07" /></p> 
+ <p  align="center" ><img style="width:470px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshYadav07&show_icons=true&locale=en&layout=compact" alt="JayeshYadav07" /></p>  -->
 
  <!-- 
  <p  align="center" ><img   src="https://github-readme-stats.vercel.app/api?username=JayeshYadav07&show_icons=true&locale=en" alt="JayeshYadav07" /></p> 
